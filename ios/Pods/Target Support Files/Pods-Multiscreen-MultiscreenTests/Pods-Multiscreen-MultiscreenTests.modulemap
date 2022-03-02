@@ -1,0 +1,6 @@
+module Pods_Multiscreen_MultiscreenTests {
+  umbrella header "Pods-Multiscreen-MultiscreenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

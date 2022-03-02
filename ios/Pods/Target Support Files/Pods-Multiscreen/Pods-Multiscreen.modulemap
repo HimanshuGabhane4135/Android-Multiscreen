@@ -1,0 +1,6 @@
+module Pods_Multiscreen {
+  umbrella header "Pods-Multiscreen-umbrella.h"
+
+  export *
+  module * { export * }
+}
